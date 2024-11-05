@@ -8,6 +8,7 @@ export const AppLayout = () => {
             <Navbar />
             <div className="content">
                 {/* Your page content goes here */}
+                Here our content will go there
             </div>
             <Footer />
         </div>
